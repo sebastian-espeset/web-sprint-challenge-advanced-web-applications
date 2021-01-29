@@ -22,3 +22,5 @@ const Color = ({color, editing, editColor, deleteColor}) => {
 }
 
 export default Color;
+
+export default Color;
